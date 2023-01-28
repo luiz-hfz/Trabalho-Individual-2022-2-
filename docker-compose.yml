@@ -1,6 +1,19 @@
 version: "3.8"
 
 services:
+  app-python:
+    image: python:latest
+    container_name: python-app
+    restart: always
+    build: .
+    command: python src/main.py
+    volumes:
+      - .:/app  
+    ports: 
+      - "3000:3000"
+    depends_on:
+      - mongo-db
+
   mongo-db:
     image: mongo:latest
     container_name: db-mongo
@@ -10,3 +23,5 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: lappis
     ports: 
       - "27017:27017"
+    volumes:
+      - .:/data
