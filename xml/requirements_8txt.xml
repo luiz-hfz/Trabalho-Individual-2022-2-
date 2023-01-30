@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.17">
+  <compounddef id="requirements_8txt" kind="file" language="C++">
+    <compoundname>requirements.txt</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">altair==4.2.0</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">attrs==22.2.0</highlight></codeline>
+<codeline lineno="3"><highlight class="normal">bpemb==0.3.4</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">certifi==2022.12.7</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">charset-normalizer==2.1.1</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">contourpy==1.0.6</highlight></codeline>
+<codeline lineno="7"><highlight class="normal">coverage==7.0.2</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">cycler==0.11.0</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">entrypoints==0.4</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">exceptiongroup==1.1.0</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">fonttools==4.38.0</highlight></codeline>
+<codeline lineno="12"><highlight class="normal">gensim==3.8.3</highlight></codeline>
+<codeline lineno="13"><highlight class="normal">idna==3.4</highlight></codeline>
+<codeline lineno="14"><highlight class="normal">importlib-resources==5.10.2</highlight></codeline>
+<codeline lineno="15"><highlight class="normal">iniconfig==1.1.1</highlight></codeline>
+<codeline lineno="16"><highlight class="normal">Jinja2==3.1.2</highlight></codeline>
+<codeline lineno="17"><highlight class="normal">joblib==1.2.0</highlight></codeline>
+<codeline lineno="18"><highlight class="normal">jsonschema==4.17.3</highlight></codeline>
+<codeline lineno="19"><highlight class="normal">kiwisolver==1.4.4</highlight></codeline>
+<codeline lineno="20"><highlight class="normal">MarkupSafe==2.1.1</highlight></codeline>
+<codeline lineno="21"><highlight class="normal">matplotlib==3.6.2</highlight></codeline>
+<codeline lineno="22"><highlight class="normal">numpy==1.24.1</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">packaging==22.0</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">pandas==1.5.2</highlight></codeline>
+<codeline lineno="25"><highlight class="normal">Pillow==9.4.0</highlight></codeline>
+<codeline lineno="26"><highlight class="normal">pkgutil-resolve-name==1.3.10</highlight></codeline>
+<codeline lineno="27"><highlight class="normal">pluggy==1.0.0</highlight></codeline>
+<codeline lineno="28"><highlight class="normal">pyparsing==3.0.9</highlight></codeline>
+<codeline lineno="29"><highlight class="normal">pyrsistent==0.19.3</highlight></codeline>
+<codeline lineno="30"><highlight class="normal">pytest==7.2.0</highlight></codeline>
+<codeline lineno="31"><highlight class="normal">pytest-cov==4.0.0</highlight></codeline>
+<codeline lineno="32"><highlight class="normal">python-dateutil==2.8.2</highlight></codeline>
+<codeline lineno="33"><highlight class="normal">pytz==2022.7</highlight></codeline>
+<codeline lineno="34"><highlight class="normal">PyYAML==6.0</highlight></codeline>
+<codeline lineno="35"><highlight class="normal">requests==2.28.1</highlight></codeline>
+<codeline lineno="36"><highlight class="normal">scikit-learn==1.2.0</highlight></codeline>
+<codeline lineno="37"><highlight class="normal">scipy==1.9.3</highlight></codeline>
+<codeline lineno="38"><highlight class="normal">sentencepiece==0.1.97</highlight></codeline>
+<codeline lineno="39"><highlight class="normal">six==1.16.0</highlight></codeline>
+<codeline lineno="40"><highlight class="normal">smart-open==6.3.0</highlight></codeline>
+<codeline lineno="41"><highlight class="normal">threadpoolctl==3.1.0</highlight></codeline>
+<codeline lineno="42"><highlight class="normal">tomli==2.0.1</highlight></codeline>
+<codeline lineno="43"><highlight class="normal">toolz==0.12.0</highlight></codeline>
+<codeline lineno="44"><highlight class="normal">tqdm==4.64.1</highlight></codeline>
+<codeline lineno="45"><highlight class="normal">urllib3==1.26.13</highlight></codeline>
+<codeline lineno="46"><highlight class="normal">whatlies==0.7.0</highlight></codeline>
+<codeline lineno="47"><highlight class="normal">zipp==3.11.0</highlight></codeline>
+    </programlisting>
+    <location file="requirements.txt"/>
+  </compounddef>
+</doxygen>
